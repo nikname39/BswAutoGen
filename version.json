@@ -1,6 +1,7 @@
 {
     "version": "1.1.0",
-    "download_url": "https://github.com/nikname39/BswAutoGen/raw/main/BSW_AutoGenerator_v1.1.0.zip",
+    "download_url": "https://github.com/nikname39/BswAutoGen/raw/refs/heads/main/BSW_AutoGenerator_v1.1.0.zip",
     "changelog": "- 새로운 DIO 타입 지원\n- 버그 수정",
     "min_version": "1.0.0"
+
 }
